@@ -101,7 +101,7 @@ Interactive Dashboard:
 This interactive Tableau dashboard was created to visualize sales performance, profitability trends, discount impact, and business opportunities identified through SQL analysis.
 
 ### **Dashboard Preview**
-![Retail Sales Performance Dashboard](images/Dashboard_Preview.jpeg)
+![Retail Sales Performance Dashboard](images/dashboard_preview.jpeg)
 
 ### **Dashboard Components**
 * **Profit by Region**
