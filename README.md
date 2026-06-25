@@ -1,7 +1,7 @@
 # **Sql Retail Analysis**
 
 ## **Project Overview**
-This project analyzes the Superstore dataset using PostgreSQL and SQL to identify business performance, profitability trends, discount impacts, and improvement opportunities.
+This project analyzes the Superstore dataset using SQL(PostgreSQL) and tableau to identify business performance, profitability trends, discount impacts, and improvement opportunities.
 
 The analysis focuses on answering several business questions commonly encountered in retail analytics and business intelligence.
 
@@ -30,6 +30,7 @@ Main columns used in this analysis:
 * DBeaver
 * SQL
 * VS Code
+* Tableau Public
 * Git & GitHub
 
 ## **SQL Analysis**
@@ -50,7 +51,6 @@ Compared discount levels across sub-categories to determine whether high discoun
 
 ### **6. Tables Root Cause Analysis**
 Investigated individual transactions in the Tables sub-category to identify potential causes of losses. 
-
 
 ## **Key Findings**
 ### **Company Performance**
@@ -91,6 +91,30 @@ The Tables sub-category showed:
 - Multiple high-sales transactions generating negative profit
 
 This indicates that excessive discounting may significantly reduce profitability despite strong sales performance.
+
+## **Tableau Dashboard**
+Interactive Dashboard:
+[![Tableau Dashboard](https://shields.io)]([https://tableau.com](https://public.tableau.com/views/RetailSalesPerformanceDashboard_17823930436580/RetailSalesPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+> **Click the badge above or click [here]([https://tableau.com](https://public.tableau.com/views/RetailSalesPerformanceDashboard_17823930436580/RetailSalesPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) to explore the live interactive dashboard.**
+
+### **Dashboard Overview**
+This interactive Tableau dashboard was created to visualize sales performance, profitability trends, discount impact, and business opportunities identified through SQL analysis.
+
+### **Dashboard Preview**
+![Retail Sales Performance Dashboard](images/Dashboard_Preview.jpeg)
+
+### **Dashboard Components**
+* **Profit by Region**
+* **Profit by Sub-Category**
+* **Average Discount by Sub-Category**
+* **Sales vs Profit by Sub-Category**
+
+### **Dashboard Highlights**
+* **West region** generated the highest profit.
+* **Central region** generated the lowest profit.
+* **Copiers, Phones, and Accessories** were the most profitable sub-categories.
+* **Tables** generated negative profit despite relatively high sales volume.
+* **High discount levels** were strongly associated with lower profitability.
 
 ## **Business Recommendations**
 1. **Review Discount Policies**
