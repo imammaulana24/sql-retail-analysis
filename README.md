@@ -94,10 +94,9 @@ This indicates that excessive discounting may significantly reduce profitability
 
 ## **Tableau Dashboard**
 Interactive Dashboard:
-Interactive Dashboard:
 [![Tableau](https://shields.io)](https://tableau.com)
 
-**Click the badge above or click [here](https://tableau.com) to explore the live interactive dashboard.**
+Click the badge above or click [here](https://tableau.com) to explore the live interactive dashboard.
 
 
 ### **Dashboard Overview**
