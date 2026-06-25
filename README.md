@@ -95,7 +95,8 @@ This indicates that excessive discounting may significantly reduce profitability
 ## **Tableau Dashboard**
 Interactive Dashboard:
 [![Tableau](https://shields.io)](https://tableau.com)
-> **Click the badge above or click [here]([https://tableau.com](https://public.tableau.com/views/RetailSalesPerformanceDashboard_17823930436580/RetailSalesPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) to explore the live interactive dashboard.**
+
+**Click the badge above or click [here](https://tableau.com) to explore the live interactive dashboard.**
 
 ### **Dashboard Overview**
 This interactive Tableau dashboard was created to visualize sales performance, profitability trends, discount impact, and business opportunities identified through SQL analysis.
