@@ -118,7 +118,7 @@ This interactive Tableau dashboard was created to visualize sales performance, p
 * **High discount levels** were strongly associated with lower profitability.
 
 ## **Business Recommendations**
-1. **Review Discount Policies**
+1. **Optimize Discount Strategy**
 Evaluate discount strategies, particularly for the Tables sub-category, to prevent excessive reductions in profit margins.
 
 2. **Focus on High-Profit Products**
@@ -156,5 +156,5 @@ sql-retail-analysis/
 
 Imam Maulana
 
-Data Analyst Portfolio Project
+Aspiring Data Analyst
 
