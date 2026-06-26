@@ -1,12 +1,12 @@
 # **Sql Retail Analysis**
 
 ## **Project Overview**
-This project analyzes the Superstore dataset using SQL(PostgreSQL) and tableau to identify business performance, profitability trends, discount impacts, and improvement opportunities.
+This project analyzes the Superstore dataset using PostgreSQL and Tableau Public to evaluate business performance, profitability trends, discount impact, and opportunities for business improvement.
 
-The analysis focuses on answering several business questions commonly encountered in retail analytics and business intelligence.
+The analysis answers several business questions commonly encountered in retail analytics and business intelligence.
 
 ## **Dataset Information**
-Dataset : Sample Superstore
+Dataset : Sample Superstore Dataset
 
 Main columns used in this analysis:
 * Sales
@@ -38,7 +38,7 @@ Main columns used in this analysis:
 Calculated total company sales and profit to understand overall business performance.
 
 ### **2. Profit by Region**
-Compared sales and profit across regions to identify the most profitable and least profitable regions.
+Analyzed sales and profit across different regions to identify the highest and lowest performing regions.
 
 ### **3. Average Discount by Region**
 Analyzed discount behavior in each region to investigate potential impacts on profitability.
@@ -96,7 +96,7 @@ This indicates that excessive discounting may significantly reduce profitability
 Interactive Dashboard:
 View the interactive Tableau dashboard here:
 
-https://public.tableau.com/views/RetailSalesPerformanceDashboard_17823930436580/RetailSalesPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[View Interactive Dashboard](https://public.tableau.com/views/RetailSalesPerformanceDashboard_17823930436580/RetailSalesPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### **Dashboard Overview**
 This interactive Tableau dashboard was created to visualize sales performance, profitability trends, discount impact, and business opportunities identified through SQL analysis.
